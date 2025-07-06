@@ -1,5 +1,7 @@
 Program for making notes.
 
+"Console based notes"
+
 Hopefully i'll upgrade it
 
 Hope you like it
@@ -18,4 +20,9 @@ Hope you like it
 'at name target' adds target
 'rmnote name' removes note
 
-adding . as name reads as current note
+"." reads as the current note
+
+
+My first more or less working project, that i wrote myself.
+Yes, i used AI, but only for educational purposes, and never "do that for me because i'm lazy"
+Though i am, because i might make it 1.5 better by making target's system working by names, not IDs, but i reacted after it was too big and scary.
